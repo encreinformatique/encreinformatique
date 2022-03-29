@@ -1,6 +1,9 @@
 # Hello there 👋
 
-## Developper for Symfony & VueJS
+## Developer for Symfony, VueJS & Wordpress
+
+- 🔭 I’m currently working on Symfony Projects.
+- 👯 I just collaborated on a couple of e-commerce website
 
 <!--
 **encreinformatique/encreinformatique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
