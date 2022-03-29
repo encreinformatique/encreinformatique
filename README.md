@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello there 👋
+
+## Developper for Symfony & VueJS
 
 <!--
 **encreinformatique/encreinformatique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
