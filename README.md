@@ -3,7 +3,8 @@
 ## Developer for Symfony, VueJS & Wordpress
 
 - 🔭 I’m currently working on Symfony Projects.
-- 👯 I just collaborated on a couple of e-commerce website
+- 👯 I just collaborated on a couple of e-commerce website.
+- ✨ I published some open source PHP wrappers for [DoctorSender](https://packagist.org/packages/encreinformatique/doctorsender-api-php), [Mobiyo SVA](https://packagist.org/packages/encreinformatique/mobiyo) and a couple more, installed thousands of times.
 
 <!--
 **encreinformatique/encreinformatique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
