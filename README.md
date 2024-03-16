@@ -4,7 +4,11 @@
 
 - 🔭 I’m currently working on Symfony Projects.
 - 👯 I just collaborated on a couple of e-commerce website.
+- 📫 I am available for hiring
 - ✨ I published some open source PHP wrappers for [DoctorSender](https://packagist.org/packages/encreinformatique/doctorsender-api-php), [Mobiyo SVA](https://packagist.org/packages/encreinformatique/mobiyo) and a couple more, installed thousands of times.
+- ⚡ Symfony, Wordpress or Laravel are PHP frameworks or CMS I can use.
+- ⚡ VueJS or React are JavaScript frameworks I can use.
+- 💬 You can contact me in English, Spanish or French.
 
 <!--
 **encreinformatique/encreinformatique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
