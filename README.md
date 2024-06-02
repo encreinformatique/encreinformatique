@@ -1,6 +1,6 @@
 # Hello there 👋
 
-![Julien](https://github.com/encreinformatique/encreinformatique/blob/encreinformatique-patch-1/banner_github.webp)
+![Julien](https://github.com/encreinformatique/encreinformatique/blob/main/banner_github.webp)
 
 ## Developer for Symfony, VueJS & Wordpress
 
