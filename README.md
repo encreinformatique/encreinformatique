@@ -2,14 +2,14 @@
 
 ![Julien](https://github.com/encreinformatique/encreinformatique/blob/main/banner_github.webp)
 
-## Developer for Symfony, VueJS & Wordpress
+## Symfony, VueJS & Wordpress
 
 - 🔭 I’m currently working on SaaS Projects.
 - 👯 I just collaborated on a couple of e-commerce website.
-- 📫 I am available for hiring
+<!-- - 📫 I am available for hiring -->
 - ✨ I published some open source PHP wrappers for [DoctorSender](https://packagist.org/packages/encreinformatique/doctorsender-api-php), [Mobiyo SVA](https://packagist.org/packages/encreinformatique/mobiyo) and a couple more, installed thousands of times.
 - ⚡ Symfony, Wordpress or Laravel are PHP frameworks or CMS I can use.
-- ⚡ VueJS or React are JavaScript frameworks I can use.
+- ⚡ VueJS or React Mobile are JavaScript frameworks I can use.
 - 💬 You can contact me in English, Spanish or French.
 
 <!--
