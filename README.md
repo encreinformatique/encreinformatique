@@ -1,28 +1,30 @@
-# Hello there 👋
+# Hi, I'm Julien 👋
 
-![Julien](https://github.com/encreinformatique/encreinformatique/blob/main/banner_github.webp)
+**Project manager bridging business goals and technical teams.**
+I've spent years shipping web products — from requirements to deployment — with hands-on experience across Symfony, Vue.js, and WordPress stacks.
 
-## Symfony, VueJS & Wordpress
+---
 
-- 🔭 I’m currently working on SaaS Projects.
-- 👯 I just collaborated on a couple of e-commerce website.
-<!-- - 📫 I am available for hiring -->
-- ✨ I published some open source PHP wrappers for [DoctorSender](https://packagist.org/packages/encreinformatique/doctorsender-api-php), [Mobiyo SVA](https://packagist.org/packages/encreinformatique/mobiyo) and a couple more, installed thousands of times.
-- ⚡ Symfony, Wordpress or Laravel are PHP frameworks or CMS I can use.
-- ⚡ VueJS or React Mobile are JavaScript frameworks I can use.
-- 💬 You can contact me in English, Spanish or French.
+## What I do
 
-<!--
-**encreinformatique/encreinformatique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🗂 **Lead projects** end-to-end: scoping, sprint planning, stakeholder alignment, delivery
+- 🔍 **Speak developer** — I can read code, review PRs, and contribute when needed
+- 🌐 **Build web products**: SaaS platforms, e-commerce, APIs, and custom CMS solutions
+- 🔗 Published open-source PHP libraries used thousands of times on Packagist
 
-Here are some ideas to get you started:
+## Tech I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Layer | Tools |
+|-------|-------|
+| Backend | Symfony · WordPress |
+| Process | Git · Notion |
+
+## A few things
+
+- 💬 Available in **English · Français · Español**
+- 📦 Open-source contributor on [Packagist](https://packagist.org/packages/encreinformatique/)
+- 🌍 Based on the internet — worked with teams across Europe & Latin America
+
+---
+
+*Always happy to talk about product, process, or the right tool for the job.*
